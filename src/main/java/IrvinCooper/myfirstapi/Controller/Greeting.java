@@ -1,4 +1,4 @@
-package IrvinCooper.myfirstapi;
+package IrvinCooper.myfirstapi.Controller;
 
 public class Greeting {
     private final long id;

@@ -1,4 +1,4 @@
-package IrvinCooper.myfirstapi.Controller;
+package IrvinCooper.myfirstapi.ControllerTest;
 
 import org.hamcrest.core.Is;
 import org.junit.jupiter.api.DisplayName;
